@@ -1,0 +1,1 @@
+Streamlit dashboard para automatizar reportes y exportar Excel.
